@@ -11,7 +11,7 @@ periodic fashion for future reference.
 The application is platform and architecture independent, running on any system with a Java Runtime 
 Environment (JRE).
 
-Key Features
+Key Features:
 
 * Peer-to-Peer Communication
 ◦ Uses Java sockets for direct communication between clients.
@@ -29,7 +29,8 @@ Key Features
 * Lightweight & Extensible
 ◦ Can be extended to support group chat, file sharing, or encryption.
 
-Learning Outcomes
+Learning Outcomes:
+
 * Practical knowledge of Java Socket Programming (TCP/IP).
 * Hands-on experience with network programming concepts (client-server, peer-to-peer).
 * Implementation of logging mechanisms in applications.
