@@ -1,6 +1,6 @@
                  #Chat Messenger with Log Facility
                  
-Technology: Java Programming
+#Technology: Java Programming
 
 Project Overview:
 
