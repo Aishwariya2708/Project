@@ -2,7 +2,6 @@ import java.util.*;
 import java.time.LocalDate;
 import java.io.*;
 
-// DONE
 class StudyLog
 {
     public LocalDate Date;
@@ -290,4 +289,5 @@ class   StudyTrackerStarter
         }while(iChoice != 6);
 
     }
+
 }
