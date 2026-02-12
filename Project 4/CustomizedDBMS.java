@@ -211,7 +211,7 @@ class MarvellousDBMS
     }
 }
 
-class CustomisedDBMS
+class CustomizedDBMS
 {
     public static void main(String Arg[])
     {
@@ -410,4 +410,5 @@ class CustomisedDBMS
         }
         
     }
+
 }
